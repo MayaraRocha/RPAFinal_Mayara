@@ -1,0 +1,12 @@
+﻿{
+  "Id": "X_-6zP_FlE67PadH__M2fw",
+  "Reference": "SNXGLpakfEK9MSi-x7C5kQ/X_-6zP_FlE67PadH__M2fw",
+  "ParentRef": "SNXGLpakfEK9MSi-x7C5kQ/0UyUI7R26UWrJvj8kClioQ",
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Created": "2022-03-11T11:11:11.4244178Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-11T11:11:11.4244178Z"
+}

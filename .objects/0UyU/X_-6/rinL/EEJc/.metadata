@@ -1,0 +1,16 @@
+﻿{
+  "Id": "EEJcdmZFs0CsR9Dp_KykTw",
+  "Reference": "SNXGLpakfEK9MSi-x7C5kQ/EEJcdmZFs0CsR9Dp_KykTw",
+  "ParentRef": "SNXGLpakfEK9MSi-x7C5kQ/rinLTyH1MUa8qw_HJiuvqw",
+  "Name": "Senha",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2022-03-11T11:13:01.2084046Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-11T11:13:33.8157718Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
